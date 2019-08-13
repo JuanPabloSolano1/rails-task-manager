@@ -1,0 +1,19 @@
+.container{
+  display: block;
+  padding: 10px 10px;
+}
+button{
+  margin-top: 20px;
+  height: 30px;
+  width: 100px;
+  border-radius: 10%;
+  font-size: 18px;
+  color: white;
+  background-color: #3e64ff;
+}
+
+li{
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: Verdana;
+}
